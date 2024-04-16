@@ -10,7 +10,7 @@ OpenStory aims to serve as a central hub, branching out to engage artists across
 
 Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord Here 🆕</a><br><br>
 
-OpenStorytelling.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.
+openstorystudio.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.
 
 </div>
 
@@ -42,11 +42,11 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 - **Holistic Resource**: Aiming beyond script sharing, the site is designed to be a comprehensive guide for amateur screenwriters, offering various tools and educational content.
 
 #### Key Offerings
-- **Varied Tools**: The site features tools like OpenStorytelling Architect, Plus, and Visualizer, each catering to different screenplay development needs.
+- **Varied Tools**: The site features tools like openstorystudio Architect, Plus, and Visualizer, each catering to different screenplay development needs.
 - **Learning Resources**: It provides educational material and techniques, such as storyboarding, to enhance screenwriting skills.
 - **Creative Content**: Scripts, story challenges, and AI films are available for practical learning and skill development.
 
-**Summary**: OpenStorytelling.com integrates technology with creative and educational resources, forming a supportive community for screenwriters.
+**Summary**: openstorystudio.com integrates technology with creative and educational resources, forming a supportive community for screenwriters.
 
 <a id="table-of-contents"></a>
 
@@ -56,24 +56,24 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h4>↗️ OpenStory:</h4>
 
-1. [OpenStory Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World) OpenStorytelling Architect: AI-Driven Architect for OpenStorytelling: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
+1. [OpenStory Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) - Start Building your Fake Dream Home (Your New World) openstorystudio Architect: AI-Driven Architect for openstorystudio: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 
-2. [OpenStory Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World: OpenStorytelling Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
+2. [OpenStory Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorystudio-plus) - How to Start Living in Your New World: openstorystudio Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
 
-3. [OpenStory Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You: OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
+3. [OpenStory Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer) - Let's Visualize the World Around You: openstorystudio Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
 <h2><img src="github-mark.png" width="18" height="18">  REPOs:</h2>
 
 <h4>↗️ Educational Resources and More:</h4>
 
-1. [24-Blocks & Story Education Main Menu](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
-2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
-3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
-4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help
+1. [24-Blocks & Story Education Main Menu](https://24blocks.openstorystudio.com/) - Architecture, Screenplay Techniques, Writing Resources
+2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
+3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
+4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help
 
 <h4>↗️ Afterglow Resources: </h4>
 
-1. [Afterglow Main Menu ](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
+1. [Afterglow Main Menu ](https://afterglow.openstorystudio.com) - The 'AFTERGLOW' Repo
 2. [Storyboard 🎞️](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
 3. [Soundtrack 🎶](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
 4. [Character Profiles 👨‍👩‍👧‍👦](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters 
@@ -83,13 +83,13 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 1. [BryanHarrisScripts Profile](https://github.com/BryanHarrisScripts)
 2. [Scripts to Screens Pitch](https://twitter.com/BryanRebooted/bio)
-3. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
+3. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
 
 <h2>𝕏 Stories:</h2>
 
 <h4>↗️ Various Story Resources:</h4>
 
-1. [OpenStory Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
+1. [OpenStory Basement Broadcasts](https://github.com/BryanHarrisScripts/openstorystudio-Github) - The Artist's Frame Reimagined : Scripts to Screens
 2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
 4. [Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub: Community Discord Server
@@ -104,7 +104,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 ## OpenStory: Elevating Scriptwriting in the Digital Age
 
-OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integrating smart technology. It simplifies the process, turning scripts into visual scenes and enabling collaborative storytelling. With a focus on AI, the platform enhances scripts and opens new digital revenue opportunities for writers. It's not just a concept but a working prototype, giving unseen scripts a chance to become visual, valuable digital assets. OpenStorytelling embodies the future of scriptwriting, where every story and voice finds its screen and audience.
+openstorystudio.com is a unique platform revolutionizing scriptwriting by integrating smart technology. It simplifies the process, turning scripts into visual scenes and enabling collaborative storytelling. With a focus on AI, the platform enhances scripts and opens new digital revenue opportunities for writers. It's not just a concept but a working prototype, giving unseen scripts a chance to become visual, valuable digital assets. openstorystudio embodies the future of scriptwriting, where every story and voice finds its screen and audience.
 
 ## Future Vision for OpenStory
 
@@ -123,7 +123,7 @@ OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integ
 
 ## Detailed System Architecture
 
-To streamline the Script Visualization and AI Integration process for OpenStorytelling.com, let's focus on eliminating overlap and redundancy while clearly defining each component's role:
+To streamline the Script Visualization and AI Integration process for openstorystudio.com, let's focus on eliminating overlap and redundancy while clearly defining each component's role:
 
 ## Script Visualization and AI Integration
 
@@ -133,7 +133,7 @@ The full screenplay is divided into 24 segments using the Script Segmentation Sy
 
    - **Algorithm**: Employ a combination of NLP techniques and AI models to segment screenplays. Utilize text analysis to identify narrative structure, scene transitions, and plot points.
    - **Implementation**: Integrate Python-based NLP libraries (like NLTK or spaCy) to process script text and identify key elements for segmentation.
-   -  [Example: 24-Block Process Architecture](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) 
+   -  [Example: 24-Block Process Architecture](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) 
 
 2. **2D Visualization Interface**:
 
@@ -169,17 +169,17 @@ Once all segments are finalized, they are compiled into a sequential format, cre
 1. **OpenStory Architect**:
    - **Function**: A tool for building detailed story environments, leveraging AI for contextual understanding and environmental setup.
    - **CrewAI Edition**: Enhances the tool by integrating CrewAI agents for more dynamic and responsive world-building based on user inputs.
-   - [Prototype: OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) 
+   - [Prototype: openstorystudio Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) 
 
 2. **OpenStory Plus**:
    - **Function**: Focuses on creative writing, ideation, and character development, using AI for language processing and idea generation.
    - **CrewAI Edition**: CrewAI agents assist in deeper narrative structuring, offering suggestions and generating ideas in response to user inputs.
-   - [Prototype: OpenStorytelling Plus ](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
+   - [Prototype: openstorystudio Plus ](https://chat.openai.com/g/g-LppT0lwkB-openstorystudio-plus)
 
 3. **OpenStory Visualizer**:
    - **Function**: Transforms scripts into visual storyboards or 2D imagery, using AI for image generation and script interpretation.
    - **CrewAI Edition**: Incorporates CrewAI agents to create dynamic visual representations that adapt to script changes and user interactions.
-   - [Prototype: OpenStorytelling Visualizer ](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
+   - [Prototype: openstorystudio Visualizer ](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer)
    - [Examples: Afterglow Storyboard ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
    - [Examples: Afterglow Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - 'AFTERGLOW' Soundtrack 
   
