@@ -55,7 +55,7 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 2. [OpenStory Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub: Community Discord Server<br><br>
 
 ## 5.) OpenStory Studio | Long Term Vision ↗️
-1. [test](https://github.com/BryanHarrisScripts/24-Blocks-OpenStoryStudio/blob/main/OpenSource/Open%20Source%20Collaboration.md) - test?
+1. [Open Source Licensing in Screenwriting](https://github.com/BryanHarrisScripts/24-Blocks-OpenStoryStudio/blob/main/OpenSource/Open%20Source%20Collaboration.md) - Open Source Screenwriting?
 1. [Why Creative Commons](https://github.com/BryanHarrisScripts/24-Blocks-OpenStoryStudio/blob/main/Experiment%20Learnings.md) - Why CC and Copyrights?  
 2. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
 3. [Scripts to Screens Pitch](https://twitter.com/BryanRebooted/bio)
