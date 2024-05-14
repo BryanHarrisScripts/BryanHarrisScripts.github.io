@@ -1,5 +1,5 @@
 
-<img src="./images/X-Banner10.png"/>
+<img src="/StorytellersCollective-0-Storyteller's Collective.png"/>
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN
 
 <div align="left">
 
-Open 🆂🆃🅾️🆁🆈 aims to serve as a central hub, branching out to engage artists across the entertainment sector, offering a decentralized alternative to the conventional Hollywood route. This model intends to democratize the industry, inviting creatives to share, collaborate, and explore new pathways to success, fostering diversity and innovation in the process. openstorystudio.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.
+Open 🆂🆃🅾️🆁🆈 aims to serve as a central hub, branching out to engage artists across the entertainment sector, offering a decentralized alternative to the conventional Hollywood route. This model intends to democratize the industry, inviting creatives to share, collaborate, and explore new pathways to success, fostering diversity and innovation in the process. openstorystudio.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.<br>
 
 </div>
  
@@ -22,21 +22,20 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 
 ## Overview of OpenStory
 
-#### Vision for Screenwriting
-- **Open-Source Sharing**: "Afterglow" is released under an open-source license by Bryan Harris, fostering a community-driven approach to screenwriting.
-- **Educational Shift**: The site evolves from script sharing to a broader educational resource, focusing on nurturing screenwriting talent.
-- **AI's Role**: The use of AI, especially ChatGPT, underlines its importance in creating educational content for screenwriters.
-
-#### GitHub's Role
-- **Beyond Storage**: GitHub is utilized for its revision control capabilities, highlighting its role in structured screenplay management.
-- **Holistic Resource**: Aiming beyond script sharing, the site is designed to be a comprehensive guide for amateur screenwriters, offering various tools and educational content.
-
-#### Key Offerings
-- **Varied Tools**: The site features tools like openstorystudio Architect, Plus, and Visualizer, each catering to different screenplay development needs.
-- **Learning Resources**: It provides educational material and techniques, such as storyboarding, to enhance screenwriting skills.
-- **Creative Content**: Scripts, story challenges, and AI films are available for practical learning and skill development.
-
-**Summary**: openstorystudio.com integrates technology with creative and educational resources, forming a supportive community for screenwriters.
+| **Category**           | **Details**                                                                                                                                                 |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Vision for Screenwriting** |                                                                                                                                                         |
+| Open-Source Sharing    | "Afterglow" is released under an open-source license by Bryan Harris, fostering a community-driven approach to screenwriting.                                 |
+| Educational Shift      | The site evolves from script sharing to a broader educational resource, focusing on nurturing screenwriting talent.                                            |
+| AI's Role              | The use of AI, especially ChatGPT, underlines its importance in creating educational content for screenwriters.                                                |
+| **GitHub's Role**      |                                                                                                                                                         |
+| Beyond Storage         | GitHub is utilized for its revision control capabilities, highlighting its role in structured screenplay management.                                           |
+| Holistic Resource      | Aiming beyond script sharing, the site is designed to be a comprehensive guide for amateur screenwriters, offering various tools and educational content.      |
+| **Key Offerings**      |                                                                                                                                                         |
+| Varied Tools           | The site features tools like openstorystudio Architect, Plus, and Visualizer, each catering to different screenplay development needs.                        |
+| Learning Resources     | It provides educational material and techniques, such as storyboarding, to enhance screenwriting skills.                                                      |
+| Creative Content       | Scripts, story challenges, and AI films are available for practical learning and skill development.                                                           |
+| **Summary**            | openstorystudio.com integrates technology with creative and educational resources, forming a supportive community for screenwriters.                         |
 
 <a id="table-of-contents"></a>
 
@@ -54,7 +53,7 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 
 <h2><img src="github-mark.png" width="18" height="18"> 🆂🆃🅾️🆁🆈 REPOs:</h2>
 
-<h4>↗️ BRYΔN'S 24 Blocks Architecture and Free Writing Resources:</h4>
+<h4>↗️ BRYΔN'S 24 Blocks Architecture | Free Writing Resources:</h4>
 
 1. [24-Blocks & Story Education Main Menu](https://24blocks.openstorystudio.com/) - Architecture, Screenplay Techniques, Writing Resources
 2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
