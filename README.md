@@ -54,7 +54,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h2><img src="favicon.ico" width="18" height="18">  GPTs:</h2>
 
-<h4>↗️ OpenStory:</h4>
+<h4>↗️ OpenStory Studio:</h4>
 
 1. [OpenStory Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) - Start Building your Fake Dream Home (Your New World) openstorystudio Architect: AI-Driven Architect for openstorystudio: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 
@@ -64,14 +64,14 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h2><img src="github-mark.png" width="18" height="18">  REPOs:</h2>
 
-<h4>↗️ Educational Resources and More:</h4>
+<h4>↗️ BRYΔN'S 24 Blocks Architecture and Free Writing Resources:</h4>
 
 1. [24-Blocks & Story Education Main Menu](https://24blocks.openstorystudio.com/) - Architecture, Screenplay Techniques, Writing Resources
 2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
 4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help
 
-<h4>↗️ Afterglow Resources: </h4>
+<h4>↗️ BRYΔN's STORY | AFTERGLOW: </h4>
 
 1. [Afterglow Main Menu ](https://afterglow.openstorystudio.com) - The 'AFTERGLOW' Repo
 2. [Storyboard 🎞️](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
@@ -79,19 +79,11 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 4. [Character Profiles 👨‍👩‍👧‍👦](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters 
 
 
-<h4>↗️ My Github Profile:</h4>
+<h4>↗️ BRYΔN's Github Profile:</h4>
 
 1. [BryanHarrisScripts Profile](https://github.com/BryanHarrisScripts)
 2. [Scripts to Screens Pitch](https://twitter.com/BryanRebooted/bio)
 3. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
-
-<h2>𝕏 Stories:</h2>
-
-<h4>↗️ Various Story Resources:</h4>
-
-1. [OpenStory Basement Broadcasts](https://github.com/BryanHarrisScripts/openstorystudio-Github) - The Artist's Frame Reimagined : Scripts to Screens
-2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
-3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
 4. [🆂🆃🅾️🆁🆈 Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub: Community Discord Server
 
 <br>
@@ -100,7 +92,8 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 ---
 
-![DALL·E 2024-01-20 15 05 37 - Create a visual representation of the architecture for a script visualization tool using 2D images and 24-blocks, each representing 5 minutes of scrip](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/assets/91784044/c2c52ccc-692a-4cbe-bcf8-8d966c5932f0)
+<img src="/StorytellersCollective-1-Storyteller's Collective.png"/>
+<img src="/StorytellersCollective-2-Storyteller's Collective.png"/>
 
 ## OpenStory: Elevating Scriptwriting in the Digital Age
 
