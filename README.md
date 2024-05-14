@@ -1,4 +1,3 @@
-
 <img src="/StorytellersCollective-0-Storyteller's Collective.png"/>
 
 <div align="center">
@@ -27,36 +26,30 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 <!-- <h2><img src="favicon.ico" width="18" height="18"> 🆂🆃🅾️🆁🆈 GPTs:</h2> -->
 <!-- <h2><img src="github-mark.png" width="18" height="18"> BRYΔN's 🆂🆃🅾️🆁🆈:</h2> -->
 
-<h2>↗️ 24 Block Structure | A Common Language for AI</h2>
+<h2>↗️ 1.) 24 Block Structure | A Common Language for AI</h2>
 
-1. [24-Blocks & Story Education Main Menu](https://24blocks.openstorystudio.com/) - Architecture, Screenplay Techniques, Writing Resources
-2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
+1. [24-Blocks Story Education Menu](https://24blocks.openstorystudio.com/) - Architecture, Screenplay Techniques, Writing Resources
+2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A Common Language for AI
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
 4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help<br><br>
 
-<h2>↗️ OpenStory GPTs | A New AI Tool for All Writers</h2>
+<h2>↗️ 2.) OpenStory GPTs | A New AI Tool for All Writers</h2>
 
 1. [OpenStory Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) - Start Building your Fake Dream Home (Your New World) openstorystudio Architect: AI-Driven Architect for openstorystudio: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 2. [OpenStory Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorystudio-plus) - How to Start Living in Your New World: openstorystudio Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
 3. [OpenStory Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer) - Let's Visualize the World Around You: openstorystudio Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization.<br><br>
 
-<h2>↗️ BRYΔN's STORY | AFTERGLOW</h2>
+<h2>↗️ 3.) BRYΔN's STORY | AFTERGLOW</h2>
 
 1. [Afterglow Main Menu ](https://afterglow.openstorystudio.com) - The 'AFTERGLOW' Repo
 2. [Storyboard 🎞️](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
 3. [Soundtrack 🎶](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
 4. [Character Profiles 👨‍👩‍👧‍👦](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters<br><br> 
 
-<h2>↗️ OpenStory Studio | Story Teams (Phase 1)</h2>
+<h2>↗️ 4.) OpenStory Studio | Story Teams (Phase 1)</h2>
 
-1. [🆕 Story Teams ]() - Story Teams on ... ?<br><br>
-
-<h2>↗️ BRYΔN's Github Profile</h2>
-
-1. [BryanHarrisScripts Profile](https://github.com/BryanHarrisScripts)
-2. [Scripts to Screens Pitch](https://twitter.com/BryanRebooted/bio)
-3. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
-4. [🆂🆃🅾️🆁🆈 Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub: Community Discord Server
+1. [🆕 Story Teams ]() - Story Teams on ... ?
+2. [🆂🆃🅾️🆁🆈 Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub: Community Discord Server<br><br>
 
 <br>
 
@@ -64,10 +57,10 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 
 ---
 
-## 24 Block Structure | A Common Language for AI
-<img src="/StorytellersCollective-1-Storyteller's Collective.png"/>
+## 5.) OpenStory Studio | Long Term Vision
+1. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
+2. [Scripts to Screens Pitch](https://twitter.com/BryanRebooted/bio)
 
-## OpenStory Studio | Long Term Vision
 <img src="/StorytellersCollective-2-Storyteller's Collective.png"/>
 
 ## OpenStory: Elevating Scriptwriting in the Digital Age
