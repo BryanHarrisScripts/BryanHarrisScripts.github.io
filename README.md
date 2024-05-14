@@ -1,6 +1,14 @@
 
 <img src="./images/X-Banner10.png"/>
 
+<div align="center">
+
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/KqHXpVm3uN" target="_blank">🆂🆃🅾️🆁🆈 Discord 🆕</a> | <a href="https://twitter.com/OpenStoryStudio/bio" target="_blank">@OpenStoryStudio 𝕏</a><br><br>
+
+Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord Here 🆕</a><br><br>
+
+</div>
+
 <!-- <img src="./images/Untitled-8.png"/> -->
 <!-- <img src="/OBS-Reimagined_19_Banner.png"/> -->
 
@@ -8,19 +16,7 @@
 
 Open 🆂🆃🅾️🆁🆈 aims to serve as a central hub, branching out to engage artists across the entertainment sector, offering a decentralized alternative to the conventional Hollywood route. This model intends to democratize the industry, inviting creatives to share, collaborate, and explore new pathways to success, fostering diversity and innovation in the process.<br><br>
 
-Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord Here 🆕</a><br><br>
-
 openstorystudio.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.
-
-</div>
-
-## Conceptual Drawing
-
-<div align="center">
-
-<img src="/OpenStoryHub2.png"/>
-
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/KqHXpVm3uN" target="_blank">🆂🆃🅾️🆁🆈 Discord 🆕</a> | <a href="https://twitter.com/OpenStoryStudio/bio" target="_blank">@OpenStoryStudio 𝕏</a><br><br>
 
 </div>
  
@@ -52,9 +48,9 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 # Table of Contents
 
-<h2><img src="favicon.ico" width="18" height="18">  GPTs:</h2>
+<h2><img src="favicon.ico" width="18" height="18"> 🆂🆃🅾️🆁🆈 GPTs:</h2>
 
-<h4>↗️ OpenStory Studio:</h4>
+<h4>↗️ OpenStory Studio GPTs:</h4>
 
 1. [OpenStory Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) - Start Building your Fake Dream Home (Your New World) openstorystudio Architect: AI-Driven Architect for openstorystudio: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 
@@ -62,7 +58,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 3. [OpenStory Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer) - Let's Visualize the World Around You: openstorystudio Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
-<h2><img src="github-mark.png" width="18" height="18">  REPOs:</h2>
+<h2><img src="github-mark.png" width="18" height="18"> 🆂🆃🅾️🆁🆈 REPOs:</h2>
 
 <h4>↗️ BRYΔN'S 24 Blocks Architecture and Free Writing Resources:</h4>
 
