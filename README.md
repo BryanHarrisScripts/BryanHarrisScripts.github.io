@@ -45,9 +45,9 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 <h2>3.) BRYΔN's STORY | AFTERGLOW ↗️</h2>
 
 1. [Afterglow Main Menu ](https://afterglow.openstorystudio.com) - The 'AFTERGLOW' Repo
-2. [Storyboard 🎞️](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
-3. [Soundtrack 🎶](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
-4. [Character Profiles 👨‍👩‍👧‍👦](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters<br><br> 
+2. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
+3. [Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
+4. [Character Profiles 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters<br><br> 
 
 <h2>4.) OpenStory Studio | Story Teams Phase 1 ↗️</h2>
 
