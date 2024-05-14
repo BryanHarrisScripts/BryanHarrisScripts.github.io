@@ -4,10 +4,10 @@
 
 <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/KqHXpVm3uN" target="_blank">🆂🆃🅾️🆁🆈 Discord 🆕</a> | <a href="https://twitter.com/OpenStoryStudio/bio" target="_blank">@OpenStoryStudio 𝕏</a><br><br>
 
-Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord Here 🆕</a>
+Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord 🆕</a><br>
+BryanHarrisScripts Github Profile: <a href="https://github.com/BryanHarrisScripts" target="_blank">Github Profile</a>
 
-[BryanHarrisScripts Github Profile](https://github.com/BryanHarrisScripts)<br><br>
-
+<br><br>
 
 </div>
 
