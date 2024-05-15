@@ -42,14 +42,14 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 2. [OpenStory Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorystudio-plus) - How to Start Living in Your New World: openstorystudio Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
 3. [OpenStory Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer) - Let's Visualize the World Around You: openstorystudio Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization.<br><br>
 
-<h2>3.) BRYΔN's STORY | AFTERGLOW ↗️</h2>
+<h2>3.) BRYΔN'S STORY | AFTERGLOW ↗️</h2>
 
 1. [Afterglow Main Menu ](https://afterglow.openstorystudio.com) - The 'AFTERGLOW' Repo
 2. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
 3. [Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
 4. [Character Profiles 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters<br><br> 
 
-<h2>4.) OpenStory Studio | Story Teams Phase 1 ↗️</h2>
+<h2>4.) OpenStory Studio | Story Teams—Phase 1 ↗️</h2>
 
 1. [Story Teams 🆕]() - Story Teams on ... ?
 2. [OpenStory Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub: Community Discord Server<br><br>
