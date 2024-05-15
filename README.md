@@ -51,7 +51,8 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 
 <h2>4.) 🆕 Community & Teams | 🆂🆃🅾️🆁🆈 Teams—Phase 1 ↗️</h2>
 
-1. [OpenStory Teams 🔥](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub<br><br>
+1. [OpenStory Teams 🔥](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub
+2. [Collaboration vs Isolation](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/blob/main/AI-Teams/Collaboration.md) - Why isolate yourself with AI?<br><br>
 
 ## 5.) OpenStory Studio | Long Term Vision ↗️
 1. [Open Source Licensing in Screenwriting](https://github.com/BryanHarrisScripts/24-Blocks-OpenStoryStudio/blob/main/OpenSource/Open%20Source%20Collaboration.md) - Unleashing the Power of Collaboration!
