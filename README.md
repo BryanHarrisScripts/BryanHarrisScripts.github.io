@@ -49,10 +49,9 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 3. [Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
 4. [Character Profiles 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters<br><br> 
 
-<h2>4.) OpenStory Studio | Story Teams—Phase 1 ↗️</h2>
+<h2>4.) 🆕 Community & Teams | 🆂🆃🅾️🆁🆈 Teams—Phase 1 ↗️</h2>
 
-1. [Story Teams 🆕]() - Story Teams on ... ?
-2. [OpenStory Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub: Community Discord Server<br><br>
+1. [OpenStory Teams 🔥](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub<br><br>
 
 ## 5.) OpenStory Studio | Long Term Vision ↗️
 1. [Open Source Licensing in Screenwriting](https://github.com/BryanHarrisScripts/24-Blocks-OpenStoryStudio/blob/main/OpenSource/Open%20Source%20Collaboration.md) - Unleashing the Power of Collaboration!
