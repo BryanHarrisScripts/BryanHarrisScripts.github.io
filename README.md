@@ -7,7 +7,7 @@
 Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord 🆕</a><br>
 BryanHarrisScripts Github Profile: <a href="https://github.com/BryanHarrisScripts" target="_blank">Github Profile</a>
 
-<br><br>
+<br>
 
 </div>
 
@@ -15,9 +15,7 @@ BryanHarrisScripts Github Profile: <a href="https://github.com/BryanHarrisScript
 <!-- <img src="/OBS-Reimagined_19_Banner.png"/> -->
 
 <div align="left">
- 
----
- 
+  
 Open 🆂🆃🅾️🆁🆈 aims to serve the creative community by providing a central hub for artists, offering a decentralized alternative to traditional creative routes. This platform encourages creatives to share, collaborate, and explore new pathways to success, fostering diversity and innovation.
 
 OpenStoryStudio.com, created by Bryan Harris, utilizes a 24 Blocks structure and GPTs (Generative Pre-trained Transformers) with AI visual tools to enhance the scriptwriting process. The platform converts scripts into visual scenes and breaks them down into manageable parts, making it ideal for scriptwriters and creatives. By bringing characters to life and enabling collaborative storytelling, Open Story Studio blends cutting-edge technology with narrative creation.
