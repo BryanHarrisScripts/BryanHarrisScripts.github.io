@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/KqHXpVm3uN" target="_blank">🆂🆃🅾️🆁🆈 Discord 🆕</a> | <a href="https://twitter.com/OpenStoryStudio/bio" target="_blank">@OpenStoryStudio 𝕏</a><br><br>
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/OpenStoryStudio/bio" target="_blank">Bio 𝕏
+</a> | <a href="https://discord.gg/KqHXpVm3uN" target="_blank">Discord 🆕</a><br><br>
 
-Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord 🆕</a><br>
+Join the Open 🆂🆃🅾️🆁🆈 Studio, Δi Team Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">Discord 🆕</a><br>
 BryanHarrisScripts Github Profile: <a href="https://github.com/BryanHarrisScripts" target="_blank">Github Profile</a>
 
 <br><br>
@@ -35,18 +36,18 @@ The heart of OpenStory Studio is its community, where OpenStory Teams foster col
 <!-- <h2><img src="favicon.ico" width="18" height="18"> 🆂🆃🅾️🆁🆈 GPTs:</h2> -->
 <!-- <h2><img src="github-mark.png" width="18" height="18"> BRYΔN's 🆂🆃🅾️🆁🆈:</h2> -->
 
-<h2>1.) 24 Block Structure | A Common Language for AI ↗️</h2>
+<h2>1.) 24 Block Structure | A Common Language for Δi ↗️</h2>
 
 1. [24-Blocks Story Education Menu](https://24blocks.openstorystudio.com/) - Architecture, Screenplay Techniques, Writing Resources
 2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A Common Language for AI
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
 4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help<br><br>
 
-<h2>2.) OpenStory GPTs | A New AI Tool for All Writers ↗️</h2>
+<h2>2.) OpenStory GPTs | A New Δi Tool for All Writers ↗️</h2>
 
-1. [OpenStory Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) - Start Building your Fake Dream Home (Your New World) openstorystudio Architect: AI-Driven Architect for openstorystudio: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
-2. [OpenStory Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorystudio-plus) - How to Start Living in Your New World: openstorystudio Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
-3. [OpenStory Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer) - Let's Visualize the World Around You: openstorystudio Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization.<br><br>
+1. [OpenStory Δi Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) - Start Building your Fake Dream Home (Your New World) openstorystudio Architect: AI-Driven Architect for openstorystudio: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
+2. [OpenStory Δi Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorystudio-plus) - How to Start Living in Your New World: openstorystudio Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
+3. [OpenStory Δi Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer) - Let's Visualize the World Around You: openstorystudio Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization.<br><br>
 
 <h2>3.) BRYΔN'S STORY | AFTERGLOW ↗️</h2>
 
@@ -55,9 +56,9 @@ The heart of OpenStory Studio is its community, where OpenStory Teams foster col
 3. [Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
 4. [Character Profiles 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters<br><br> 
 
-<h2>4.) 🆕 Community & Teams | 🆂🆃🅾️🆁🆈 Teams—Phase 1 ↗️</h2>
+<h2>4.) 🆕 Δi Teams & Community | 🆂🆃🅾️🆁🆈 Teams—Phase 1 ↗️</h2>
 
-1. [OpenStory Teams 🔥](https://discord.gg/KqHXpVm3uN) - OpenStory Studio Community Hub
+1. [OpenStory Δi Team Hub 🔥](https://discord.gg/KqHXpVm3uN) - OpenStory Discord Δi Team Focus
 2. [Collaboration vs Isolation](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/blob/main/AI-Teams/Collaboration.md) - Why isolate yourself with AI?<br><br>
 
 ## 5.) OpenStory Studio | Long Term Vision ↗️
