@@ -7,7 +7,7 @@
 Join the OpenStory Studio, Community Hub: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">OpenStory Discord 🆕</a><br>
 BryanHarrisScripts Github Profile: <a href="https://github.com/BryanHarrisScripts" target="_blank">Github Profile</a>
 
-<br>
+<br><br>
 
 </div>
 
