@@ -89,8 +89,6 @@ Welcome to the OpenStory Δi Team Hub! Our community focuses on collaboration ra
 
 <br>
 
-[Back to Top](#table-of-contents)
-
 <img src="/StorytellersCollective-2-Storyteller's Collective.png"/>
 
 ## OpenStory: Elevating Scriptwriting in the Digital Age
