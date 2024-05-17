@@ -59,6 +59,8 @@ OpenStory GPTs are advanced AI-driven tools designed to help writers navigate an
 
 <h2>3.) BRYΔN'S STORY | AFTERGLOW ↗️</h2>
 
+Set in a future where AI and humans coexist, ‘Afterglow: Echoes of Sentience’ follows Ren and Summer as they navigate life’s challenges and evaluate AI-human coexistence. The adaptable script can fit genres like comedy, horror, or drama. Feel free to transform it into your unique film—just acknowledge the original work and share your version under the same open-source license. Your creative license is only limited by your imagination!
+
 1. [Afterglow Main Menu ](https://afterglow.openstorystudio.com) - The 'AFTERGLOW' Repo
 2. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
 3. [Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
