@@ -68,8 +68,17 @@ Set in a future where AI and humans coexist, ‘Afterglow: Echoes of Sentience�
 
 <h2>4.) 🆕 Δi Teams & Community | 🆂🆃🅾️🆁🆈 Teams—Phase 1 ↗️</h2>
 
+Welcome to the OpenStory Δi Team Hub! Our community focuses on collaboration rather than isolation, harnessing the power of AI to enhance creativity and productivity in film production. Join us on Discord to connect with other creators and explore the benefits of AI-human teamwork. This approach shows how Production and Support Teams can use AI to boost efficiency and creativity while maintaining human oversight for artistic integrity.
+
 1. [OpenStory Δi Team Hub 🔥](https://discord.gg/KqHXpVm3uN) - OpenStory Discord Δi Team Focus
-2. [Collaboration vs Isolation](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/blob/main/AI-Teams/Collaboration.md) - Why isolate yourself with AI?<br><br>
+2. [Collaboration vs Isolation](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/blob/main/AI-Teams/Collaboration.md) - Why isolate yourself with AI?
+  
+#### Production Team with AI Tools:
+**Scriptwriters**: Enhance storylines and characters. **Visual Artists**: Rapid concept art and style experimentation. **Sound Artists**: Craft soundscapes and music. **Visual Editors**: Efficiently edit footage and apply effects. **Directors**: Visualize scenes and actor performances.
+
+#### Support Team with AI Integration:
+**Executive Producer**: Project management and budget tracking. **Technical Support**: Maintain AI tools and platforms. **Data Analysis**: Market trends and audience feedback. **Legal and Ethics**: Compliance and ethical standards. **Distribution and Marketing**: AI-driven strategies for reach and impact.
+<br><br>
 
 ## 5.) OpenStory Studio | Long Term Vision ↗️
 1. [Open Source Licensing in Screenwriting](https://github.com/BryanHarrisScripts/24-Blocks-OpenStoryStudio/blob/main/OpenSource/Open%20Source%20Collaboration.md) - Unleashing the Power of Collaboration!
