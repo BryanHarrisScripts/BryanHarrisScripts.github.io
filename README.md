@@ -51,6 +51,8 @@ Why Use a Common Language? Creating screenplays involves complex storytelling th
 
 <h2>2.) OpenStory GPTs | A New Δi Tool for All Writers ↗️</h2>
 
+OpenStory GPTs are advanced AI-driven tools designed to help writers navigate and utilize OpenAI's models with ease. These tools act as a front-end interface to the GitHub Open Story repositories, offering a simpler way to access and use AI for creative writing and screenplay development. To use OpenStory GPTs, you'll need a subscription to OpenAI. Here's a closer look at the tools:
+
 1. [OpenStory Δi Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorystudio-architect) - Start Building your Fake Dream Home (Your New World) openstorystudio Architect: AI-Driven Architect for openstorystudio: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 2. [OpenStory Δi Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorystudio-plus) - How to Start Living in Your New World: openstorystudio Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
 3. [OpenStory Δi Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorystudio-visualizer) - Let's Visualize the World Around You: openstorystudio Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization.<br><br>
