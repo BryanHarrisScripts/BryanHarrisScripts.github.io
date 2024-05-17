@@ -38,10 +38,16 @@ The heart of OpenStory Studio is its community, where OpenStory Teams foster col
 
 <h2>1.) 24 Block Structure | A Common Language for Δi ↗️</h2>
 
+Why Use a Common Language? Creating screenplays involves complex storytelling that benefits from a structured approach. The 24 Block Structure provides a clear framework, making it easier for both human writers and AI tools to collaborate effectively.
+
 1. [24-Blocks Story Education Menu](https://24blocks.openstorystudio.com/) - Architecture, Screenplay Techniques, Writing Resources
 2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A Common Language for AI
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
-4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help<br><br>
+4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-openstorystudio/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help<br>
+
+- Clarity: A shared structure ensures everyone, including AI, understands the story's flow.
+- Consistency: It helps maintain a uniform approach throughout the screenplay.
+- Efficiency: Simplifies the writing process, saving time and reducing confusion.<br><br>
 
 <h2>2.) OpenStory GPTs | A New Δi Tool for All Writers ↗️</h2>
 
